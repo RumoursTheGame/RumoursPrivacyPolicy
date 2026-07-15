@@ -2,8 +2,7 @@
 
 Effective 28 April 2026 · Version 1.0
 
-This Privacy Policy explains how **Mikk-Mait Kivi and Hugo Murutar**
-(jointly, "**the Creators**", "we", "us"), acting as joint controllers,
+This Privacy Policy explains how **Hugo Murutar**
 collect and process personal data when you use the mobile application
 "**Rumours**" (the "**App**"). It is written to comply with the EU
 General Data Protection Regulation (GDPR), the Estonian Personal Data
@@ -13,7 +12,7 @@ Rights Act (CCPA/CPRA) and the Children's Online Privacy Protection Act
 
 ## 1. Who We Are
 
-**Joint controllers:** Mikk-Mait Kivi and Hugo Murutar.
+**Hugo Murutar.
 
 Country: Estonia.
 
@@ -302,7 +301,7 @@ highlighted in the App.
 
 If you have questions, complaints or requests:
 
-**Mikk-Mait Kivi and Hugo Murutar**
+**Hugo Murutar**
 
 Estonia
 
